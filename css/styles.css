@@ -1,23 +1,27 @@
 .row-header{
     margin:0px auto;
     padding:0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .row-content {
     margin:0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height:400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .footer{
     background-color: #dbb08d;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
     background: #6E3F19;
     color:floralwhite;
+    font-family: 'Calibri';
 }
 address{
     font-size:80%;
